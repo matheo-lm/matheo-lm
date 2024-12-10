@@ -16,4 +16,5 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          readme_path: README.md
+          template: ./TEMPLATE.md  # Adjust according to your needs
+          readme: ./README.md
