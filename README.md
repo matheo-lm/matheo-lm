@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### My GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheo-lm&layout=compact)
 
 
